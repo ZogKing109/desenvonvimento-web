@@ -57,12 +57,6 @@ function alterUser(){
         alert("Usuario ja cadastrado");
     }
 }
-
-
-//Faça uma aplicação com login e senha onde o usuário pode se manter logado usando cookies.
-//O usuário deve poder cadastrar novo usuário e senha e também alterar a senha do seu usuário.
-//A aplicação deve também ter uma opção sair, que obriga o usuário a logar novamente na pró-
-//xima vez que utilizar a aplicação.
 var op = 1;
 
 while(op != 0 ){
